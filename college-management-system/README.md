@@ -10,8 +10,8 @@ by only one instructor. A student can enroll for any number of courses and each 
 have any number of students.
 
 - code uses:
-ER DIAGRAM
-MYSQL TABLES (sql file attached)
-PHP
-BootStrap
-HTML/CSS
+ER DIAGRAM,
+MYSQL TABLES (sql file attached),
+PHP,
+BootStrap,
+HTML/CSS,
