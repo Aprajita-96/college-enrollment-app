@@ -1,0 +1,29 @@
+.admintitle{
+    background-color: crimson;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    line-height: 140px;
+}
+td {
+    font-size: x-large;
+    font-style: revert;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.dashboard{
+    background-color: floralwhite;
+    color: #000;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+body{
+    background-color: antiquewhite;
+}
